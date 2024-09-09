@@ -3,6 +3,7 @@
 > `Released November 2013`
 
 * ~~[01 Have a Clear and Concise Purpose](./01/)~~
+* [02 Be Easy to Use](./02/)
 
 ## Ref
 

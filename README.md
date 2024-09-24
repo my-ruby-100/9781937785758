@@ -1,9 +1,15 @@
 # Build Awesome Command-Line Applications in Ruby 2
 
-> `Released November 2013`
+## Version
+
+* P1.0 (November 2013)
+* P3.0 (November 2015)
+
+## Chapter
 
 * ~~[01 Have a Clear and Concise Purpose](./01/)~~
 * [02 Be Easy to Use](./02/)
+* [03 Be Helpful](./03)
 
 ## Ref
 

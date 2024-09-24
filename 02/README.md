@@ -81,16 +81,16 @@ curl --request=POST http://www.google.com
 
 **Validating Arguments to Flags**
 
-**classname**
 
-* Integer / `accept`
+```ruby
+on("-u USER", /^.+\..+$/)
+# accept
+on("-p PORT", Integer)
+```
 
 ## 2.3 Building an Easy-to-Use Command-Suite Interface
 
 
 ## Ref
 
-* <https://docs.ruby-lang.org/en/3.2/OptionParser.html>
-* <https://github.com/rack/rackup/blob/main/lib/rackup/server.rb>
-* <https://github.com/rails/thor>
 * [如何区分命令行下的arguments、flags、options?](https://segmentfault.com/q/1010000011077731)
